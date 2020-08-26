@@ -1,0 +1,54 @@
+{{/* range .Values.software.software1.environments.stage.resourcesDeployed */ -}}
+{{/* if eq . "Service" */ -}}
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    softwareId: '{{$.Values.software.software1.softwareId}}'
+    softwareName: '{{$.Values.software.software1.softwareName}}'
+  name: '{{$.Values.software.software1.softwareName}}-service'
+  namespace: '{{$.Values.namespace}}'
+spec:
+  ports:
+  - name: web
+    port: 8080
+    protocol: TCP
+  selector:
+    app: '{{$.Values.software.software1.softwareName}}'
+  type: ClusterIP
+{{- /* end */}}
+{{- /* end */}}
+---
+{{/* range .Values.software.software1.environments.stage.resourcesDeployed */ -}}
+{{/* if eq . "Deployment" */ -}}
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  labels:
+    softwareId: '{{$.Values.software.software1.softwareId}}'
+    softwareName: '{{$.Values.software.software1.softwareName}}'
+  name: '{{$.Values.software.software1.softwareName}}'
+  namespace: '{{$.Values.namespace}}'
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: '{{$.Values.software.software1.softwareName}}'
+  template:
+    metadata:
+      labels:
+        app: '{{$.Values.software.software1.softwareName}}'
+        environment: '{{$.Values.environment.name}}'
+        softwareId: '{{$.Values.software.software1.softwareId}}'
+        softwareName: '{{$.Values.software.software1.softwareName}}'
+      namespace: '{{$.Values.namespace}}'
+    spec:
+      containers:
+      - image: '{{$.Values.software.software1.image.containerRepo}}:${trigger["parameters"]["imageTag"]}'
+        imagePullPolicy: IfNotPresent
+        name: '{{$.Values.software.software1.softwareName}}'
+        ports:
+        - containerPort: {{default 8080 $.Values.software.software1.environments.stage.containerPort}}
+{{- /* end */}}
+{{- /* end */}}
+---

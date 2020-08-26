@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        {{ with .Params.Image }}
+        <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="about image">
+        {{ end }}
+        {{ .Content }}
+        <ul>
+            {{ $gistJ := getJSON $urlPre "http://localhost:8080/api/v1/" }}
+            {{ range first 5 $gistJ }}
+                {{ if .public }}
+                <li><a href="{{ .html_url }}" target="_blank">{{ .description }}</a></li>
+                {{ end }}
+            {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<p>testing ready</p>
