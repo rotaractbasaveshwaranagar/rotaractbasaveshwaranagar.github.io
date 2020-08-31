@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
-title = "Educenter | hugo education template"
+baseURL = "http://rbbat3190.org"
+title = "rbbat3190"
 theme = "educenter-hugo"
 # post pagination
 paginate = "6"
@@ -135,7 +135,7 @@ top_header = true
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+preloader = "./images/preloader-rbb.gif" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
