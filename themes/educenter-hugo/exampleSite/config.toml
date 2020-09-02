@@ -123,7 +123,7 @@ description = "This is meta description"
 author = "Themefisher"
 # contact info
 address = "Basaveshwaranagar, Banagalore, Karnataka"
-mobile = "+91 9535179196"
+mobile = "+91-9535179196"
 email = "chiranthans23@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
