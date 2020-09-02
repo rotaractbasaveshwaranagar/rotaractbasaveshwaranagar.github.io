@@ -44,9 +44,12 @@ banner_feature:
   feature_item:
     # feature item loop
     - name : "Our Proud Members"
-      icon : "ti-user" # icon pack : https://themify.me/themify-icons
       content : "An enthustatic group of youngsters between the ages 18 to 30 with various cultures, talents and professions."
-
+      icon : "ti-user" # icon pack : https://themify.me/themify-icons
+      button:
+        enable : true
+        link : "about"
+    
     # feature item loop
     - name : "Our Major Events"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
@@ -97,7 +100,7 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
-  content : "We chartered our club on June 25th 2019. We have successfuly completed one beautiful year, here is a glimpse of it"
+  content : "We chartered our club on June 25th 2019. We have successfuly completed one beautiful year, here is a glimpse of it.... *****More to be added*****"
   # video link
   video_link : "https://www.youtube.com/watch?v=v2wdIz_BDqc"
 
