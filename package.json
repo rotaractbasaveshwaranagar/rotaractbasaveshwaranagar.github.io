@@ -1,0 +1,23 @@
+{
+    "name": "web-app",
+    "version": "1.0.0",
+    "description": "An example Node.js app",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test-complex": "nyc --reporter=lcov --report-dir=./target/coverage --temp-dir=./target/.nyc_output mocha --reporter=mocha-junit-reporter --reporter-options mochaFile=./target/test-results.xml --recursive --exit",
+        "test": "nyc --reporter=html --reporter=text mocha",
+        "coverage": "nyc report --reporter=text-lcov | coveralls"
+    },
+    "dependencies": {
+        "express": "^4.16.1"
+    },
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "chai-http": "^4.3.0",
+        "coveralls": "^3.0.9",
+        "mocha": "^6.1.4",
+        "mocha-junit-reporter": "^1.23.1",
+        "nyc": "^15.0.0"
+    }
+}

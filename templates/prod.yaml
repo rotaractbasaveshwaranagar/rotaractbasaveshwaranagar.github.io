@@ -48,7 +48,7 @@ spec:
         imagePullPolicy: IfNotPresent
         name: '{{$.Values.software.software1.softwareName}}'
         ports:
-        - containerPort: {{default 8080 $.Values.software.software1.environments.prod.containerPort}}
+        - containerPort: 8080
 {{- /* end */}}
 {{- /* end */}}
 ---
