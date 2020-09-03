@@ -58,12 +58,12 @@ banner_feature:
     # feature item loop
     - name : "Our Achievements"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "***Need little content here***"
 
     # feature item loop
     - name : "Register Now, Join us"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "If you want to give back to the society, meet new people and grow as an individual, do register to show your interest and join the community."
+      content : "***Need little content here***"
 
 
 ############################## about ##################################
