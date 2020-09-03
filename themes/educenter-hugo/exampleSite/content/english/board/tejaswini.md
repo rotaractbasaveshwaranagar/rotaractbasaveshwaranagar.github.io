@@ -1,14 +1,14 @@
 ---
-title: "Suma Shambhavi"
+title: "Tejeswini A D"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Community Service Jt Director 2020-21"
+description : "Treasurer 2020-21"
 # teacher portrait
-image: "images/heads/suma.jpg"
+image: "images/heads/tejaswini.jpg"
 # course
-course: "Community Service Jt Director"
+course: "Treasurer"
 # interest
 interest: ["Piano","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -42,5 +42,5 @@ contact:
 
 
 # type
-type: "teacher"
+type: "board"
 ---

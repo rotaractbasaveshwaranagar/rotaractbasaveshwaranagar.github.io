@@ -1,14 +1,14 @@
 ---
-title: "Nikhil KM"
+title: "Sai Prasad"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Community Service Director 2020-21"
+description : "Sergeant At Arms 2020-21"
 # teacher portrait
-image: "images/heads/nikhil.jpg"
+image: "images/heads/saiprasad.jpg"
 # course
-course: "Community Service Director"
+course: "Sergeant At Arms"
 # interest
 interest: ["Piano","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -42,5 +42,5 @@ contact:
 
 
 # type
-type: "teacher"
+type: "board"
 ---

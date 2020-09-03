@@ -1,14 +1,14 @@
 ---
-title: "Tejeswini A D"
+title: "Nikhil KM"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Treasurer 2020-21"
+description : "Community Service Director 2020-21"
 # teacher portrait
-image: "images/heads/tejaswini.jpg"
+image: "images/heads/nikhil.jpg"
 # course
-course: "Treasurer"
+course: "Community Service Director"
 # interest
 interest: ["Piano","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -42,5 +42,5 @@ contact:
 
 
 # type
-type: "teacher"
+type: "board"
 ---

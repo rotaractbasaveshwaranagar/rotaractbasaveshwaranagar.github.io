@@ -1,14 +1,14 @@
 ---
-title: "Chiranthan S"
+title: "Sanjay Raghavendra"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "President 2020-21"
+description : "Club Service Director 2020-21"
 # teacher portrait
-image: "images/heads/chiranthan.jpeg"
+image: "images/heads/sanjay.jpg"
 # course
-course: "President"
+course: "Club Service Director"
 # interest
 interest: ["Piano","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -42,5 +42,5 @@ contact:
 
 
 # type
-type: "teacher"
+type: "board"
 ---

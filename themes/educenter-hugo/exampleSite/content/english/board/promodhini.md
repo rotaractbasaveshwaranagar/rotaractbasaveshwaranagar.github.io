@@ -42,5 +42,5 @@ contact:
 
 
 # type
-type: "teacher"
+type: "board"
 ---

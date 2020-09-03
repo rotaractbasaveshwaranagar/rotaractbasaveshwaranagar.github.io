@@ -101,7 +101,8 @@ contact_form_action = "#" # contact form works with https://formspree.io
 google_analitycs_id = "" # your id
 # top header
 top_header = true
-
+mobile_icon="ti-mobile"
+email_icon="ti-email"
 # Preloader
 [params.preloader]
 enable = true

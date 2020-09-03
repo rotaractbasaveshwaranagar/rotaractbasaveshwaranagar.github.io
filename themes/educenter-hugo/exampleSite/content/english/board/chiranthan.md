@@ -1,14 +1,14 @@
 ---
-title: "Karthik Shastry"
+title: "Chiranthan S"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Professional Development 2020-21"
+description : "President 2020-21"
 # teacher portrait
-image: "images/heads/karthik.jpg"
+image: "images/heads/chiranthan.jpeg"
 # course
-course: "Professional Development"
+course: "President"
 # interest
 interest: ["Piano","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -42,5 +42,5 @@ contact:
 
 
 # type
-type: "teacher"
+type: "board"
 ---

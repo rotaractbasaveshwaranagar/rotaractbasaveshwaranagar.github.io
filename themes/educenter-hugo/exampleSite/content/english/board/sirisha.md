@@ -1,14 +1,14 @@
 ---
-title: "Sai Prasad"
+title: "Sirisha Shetty"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Sergeant At Arms 2020-21"
+description : "Secretary 2020-21"
 # teacher portrait
-image: "images/heads/saiprasad.jpg"
+image: "images/heads/sirisha.jpeg"
 # course
-course: "Sergeant At Arms"
+course: "Secretary"
 # interest
 interest: ["Piano","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -42,5 +42,5 @@ contact:
 
 
 # type
-type: "teacher"
+type: "board"
 ---

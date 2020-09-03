@@ -1,14 +1,14 @@
 ---
-title: "Sanjay Raghavendra"
+title: "Suma Shambhavi"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Club Service Director 2020-21"
+description : "Community Service Jt Director 2020-21"
 # teacher portrait
-image: "images/heads/sanjay.jpg"
+image: "images/heads/suma.jpg"
 # course
-course: "Club Service Director"
+course: "Community Service Jt Director"
 # interest
 interest: ["Piano","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -42,5 +42,5 @@ contact:
 
 
 # type
-type: "teacher"
+type: "board"
 ---

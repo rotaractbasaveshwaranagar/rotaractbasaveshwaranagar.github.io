@@ -1,14 +1,14 @@
 ---
-title: "Subramanya V"
+title: "Ashwin B M"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "International Service Director 2020-21"
+description : "Immediate Past President 2020-21"
 # teacher portrait
-image: "images/heads/subramanya.jpg"
+image: "images/heads/ashwin.JPG"
 # course
-course: "International Service Director"
+course: "Immediate Past President"
 # interest
 interest: ["Piano","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -42,5 +42,5 @@ contact:
 
 
 # type
-type: "teacher"
+type: "board"
 ---

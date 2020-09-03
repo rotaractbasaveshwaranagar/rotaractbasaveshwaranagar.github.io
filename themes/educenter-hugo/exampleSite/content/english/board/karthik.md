@@ -1,14 +1,14 @@
 ---
-title: "Sirisha Shetty"
+title: "Karthik Shastry"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Secretary 2020-21"
+description : "Professional Development 2020-21"
 # teacher portrait
-image: "images/heads/sirisha.jpeg"
+image: "images/heads/karthik.jpg"
 # course
-course: "Secretary"
+course: "Professional Development"
 # interest
 interest: ["Piano","Computer Security","Human Computer Interfacing"]
 # contact info
@@ -42,5 +42,5 @@ contact:
 
 
 # type
-type: "teacher"
+type: "board"
 ---
