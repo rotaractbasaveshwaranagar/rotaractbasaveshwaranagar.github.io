@@ -11,7 +11,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Register now"
+        label : "Join Us"
         link : "contact"
 
     # slider item loop
@@ -22,7 +22,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Register now"
+        label : "Join Us"
         link : "contact"
 
     # slider item loop
@@ -33,7 +33,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Register now"
+        label : "Join Us"
         link : "contact"
 
 
