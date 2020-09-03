@@ -53,7 +53,7 @@ banner_feature:
     # feature item loop
     - name : "Our Major Events"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "***Need little content here***"
 
     # feature item loop
     - name : "Our Achievements"

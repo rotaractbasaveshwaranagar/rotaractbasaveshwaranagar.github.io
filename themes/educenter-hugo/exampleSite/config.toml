@@ -50,40 +50,10 @@ URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Members"
-URL = "members"
-weight = 2
+weight = 3
+name = "Events"
+URL="event"
 
-# [[menu.main]]
-# weight = 3
-# name = "Pages"
-# hasChildren = true
-
-#   [[menu.main]]
-#   parent = "Pages"
-#   name = "teacher"
-#   URL = "teacher"
-
-#   [[menu.main]]
-#   parent = "Pages"
-#   name = "notice"
-#   URL = "notice"
-
-#   [[menu.main]]
-#   parent = "Pages"
-#   name = "events"
-#   URL = "events"
-
-#   [[menu.main]]
-#   parent = "Pages"
-#   name = "scholarship"
-#   URL = "scholarship"
-
-#   [[menu.main]]
-#   parent = "Pages"
-#   name = "research"
-#   URL = "research"
-  
 [[menu.main]]
 name = "Donate"
 URL = "donate"
@@ -95,10 +65,10 @@ URL = "joinus"
 weight = 3
   
 [[menu.main]]
-name = "Contact"
-URL = "contact"
+name = "Login"
+URL = "login"
 weight = 4
-
+  
 
 # footer menu
 
