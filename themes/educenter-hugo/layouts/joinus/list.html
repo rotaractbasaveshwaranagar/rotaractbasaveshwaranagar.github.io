@@ -20,22 +20,8 @@
       </div>
       <div class="col-lg-5 content">
         {{ .Content }}
-        <table>
-          <tr>
-            <th><i class="{{ .Site.Params.mobile_icon }} mb-xl-4 mb-lg-3 mb-4 feature-icon-small"></i></th>
-            <td><a href="tel:{{ .Site.Params.mobile }}" class="text-color h5 d-block">{{ .Site.Params.mobile }}</a></td>
-          </tr>
-          <tr>
-            <th ><i class="{{ .Site.Params.email_icon }} mb-xl-4 mb-lg-3 mb-4 feature-icon-small"></i></th>
-            <td><a href="mailto:{{ .Site.Params.email }}" class="mb-5 text-color h5 d-block">{{ .Site.Params.email }}</a></td>
-          </tr>
-        </table>
       </div>
     </div>
   </div>
 </section>
-<!-- /contact -->
-
-
-
 {{ end }}
