@@ -1,43 +1,45 @@
 ---
 # Source: templates/prod.yaml
+
 apiVersion: v1
 kind: Service
 metadata:
+  name: 'rbb-web-app-service'
+  namespace: 'code-playground'
   labels:
     softwareId: '2f9b03eeffea3bca5a8854168476632699315708'
     softwareName: 'rbb-web-app'
-  name: 'rbb-web-app-service'
-  namespace: 'code-playground'
 spec:
   ports:
-  - name: web
-    port: 8080
-    protocol: TCP
+    - name: "web"
+      protocol: "TCP"
+      port: 8080
   selector:
-    app: 'rbb-web-app'
+      app: 'rbb-web-app'
   type: ClusterIP
 ---
+
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
+  name: 'rbb-web-app'
+  namespace: 'code-playground'
   labels:
     softwareId: '2f9b03eeffea3bca5a8854168476632699315708'
     softwareName: 'rbb-web-app'
-  name: 'rbb-web-app'
-  namespace: 'code-playground'
 spec:
-  replicas: 1
   selector:
     matchLabels:
       app: 'rbb-web-app'
+  replicas: 1
   template:
     metadata:
+      namespace: 'code-playground'
       labels:
         app: 'rbb-web-app'
         environment: 'prod'
         softwareId: '2f9b03eeffea3bca5a8854168476632699315708'
         softwareName: 'rbb-web-app'
-      namespace: 'code-playground'
     spec:
       containers:
       - image: 'containers.cisco.com/rbb/rbb-web-app:${trigger["parameters"]["imageTag"]}'
@@ -45,5 +47,6 @@ spec:
         name: 'rbb-web-app'
         ports:
         - containerPort: 8080
----
+      imagePullSecrets:
+      - name: rbb-cdconsole-bot-pull-secret
 

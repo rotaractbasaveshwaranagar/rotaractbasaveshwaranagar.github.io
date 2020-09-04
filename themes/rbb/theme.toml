@@ -1,15 +1,12 @@
-name = "Educenter Hugo"
-license = "CC BY 3.0"
-licenselink = "https://creativecommons.org/licenses/by/3.0/"
-description = "Hugo port of the Themefisher’s Educenter theme"
-homepage = "https://gethugothemes.com/products/educenter-hugo/"
-tags = ["blog",'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'education', 'white', 'light', 'multilingual', "bootstrap", "company", "portfolio", "projects", "responsive", "themefisher"]
-features = ["blog", "company", "responsive", "seo-friendly"]
+name = "RBB"
+description = "A theme developed upon educenter-hugo"
+homepage = "https://rbbat3190.org"
+tags = ['fast', 'modern', 'minimal']
+features = ["blog", "company", "responsive"]
 min_version = "0.60.0"
 
 [author]
-  name = "Themefisher"
-  homepage = "https://themefisher.com/"
+  name = "rbb"
 
 [original]
   name = "Educenter"
