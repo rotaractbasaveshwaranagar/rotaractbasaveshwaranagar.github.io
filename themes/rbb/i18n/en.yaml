@@ -42,6 +42,8 @@
 
 - id: time
   translation: time
+- id: login
+  translation: Login
 
 - id: category
   translation: Category

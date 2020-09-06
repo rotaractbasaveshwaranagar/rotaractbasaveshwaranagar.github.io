@@ -1,8 +1,8 @@
 ---
-title: "Our Courses"
+title: "Our Team"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "A team with diverse background, high energy aimed at making ourselves better and the place we live a better one "
 ---

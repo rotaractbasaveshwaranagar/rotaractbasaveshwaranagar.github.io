@@ -46,24 +46,25 @@ banner_feature:
     - name : "Our Proud Members"
       content : "An enthustatic group of youngsters between the ages 18 to 30 with various cultures, talents and professions."
       icon : "ti-user" # icon pack : https://themify.me/themify-icons
-      button:
-        enable : true
-        link : "about"
+      link : "about"
     
     # feature item loop
     - name : "Our Major Events"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
       content : "***Need little content here***"
+      link: "event"
 
     # feature item loop
     - name : "Our Achievements"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
       content : "***Need little content here***"
+    
 
     # feature item loop
     - name : "Register Now, Join us"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : "***Need little content here***"
+      link: "joinus"
 
 
 ############################## about ##################################
