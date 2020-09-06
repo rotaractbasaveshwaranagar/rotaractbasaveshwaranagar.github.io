@@ -138,7 +138,6 @@ funfacts:
 
 
 ############################# blog ################################
-blog:
+completed_events:
   enable : true
   title : "Sneek Peek of our Events"
-  # blog item comes from "content/**/blog" folder.
