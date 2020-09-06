@@ -1,8 +1,8 @@
 ---
-title: "Our Courses"
+title: "Events"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-background.png"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Here is a glimpse of few our events that happened and which are upcoming or ongoing"
 ---

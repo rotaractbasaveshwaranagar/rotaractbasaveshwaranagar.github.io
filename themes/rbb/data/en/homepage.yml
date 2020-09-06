@@ -46,7 +46,7 @@ banner_feature:
     - name : "Our Proud Members"
       content : "An enthustatic group of youngsters between the ages 18 to 30 with various cultures, talents and professions."
       icon : "ti-user" # icon pack : https://themify.me/themify-icons
-      link : "about"
+      link : "board"
     
     # feature item loop
     - name : "Our Major Events"

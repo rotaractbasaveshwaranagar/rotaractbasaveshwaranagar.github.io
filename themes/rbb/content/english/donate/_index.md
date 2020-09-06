@@ -1,12 +1,10 @@
 ---
-title: "About Us"
+title: "Donate"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-background.png"
 # meta description
-description : " ***Need to add text here*** "
-
+description : " **Little DROPS of water make a mighty OCEAN**"
 ---
 
-***Picture is needed here***
-
+***Contact***
