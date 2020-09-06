@@ -7,7 +7,7 @@ date: "2020-08-31T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-background.png"
 # meta description
 description : "A lockdown plantation drive in the comfort of your homes with a 14 day grow your plant challenge"
 # Event image

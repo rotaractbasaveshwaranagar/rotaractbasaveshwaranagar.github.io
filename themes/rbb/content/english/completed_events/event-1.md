@@ -7,7 +7,7 @@ date: "2019-10-02T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-background.png"
 # meta description
 description : "This October 2nd join us as we eradicate a black spot and do our bit towards a cleaner Bengaluru. Volunteer with us to beautify the walls"
 # Event image

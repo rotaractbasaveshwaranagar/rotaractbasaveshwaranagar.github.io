@@ -2,7 +2,7 @@
 title: "Sai Prasad"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-background.png"
 # meta description
 description : "Sergeant At Arms 2020-21"
 # teacher portrait
