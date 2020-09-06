@@ -128,17 +128,23 @@ map_marker = "images/marker.png" # marker size 37*55 px
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "https://www.facebook.com/rotaractbasaveshwaranagar"
+value="rotaractbasaveshwaranagar"
 
 [[params.social]]
 title = "youtube"
 icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCmYR-QT8Ak4g20U-iletA7Q"
+value="rotaract bangalore basaveshwarnagar"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/rbbat3190/"
 
+[[params.social]]
+title = "mail"
+icon = "ti-email" # themify icon : https://themify.me/themify-icons
+link = "mailto:rotaractcb2@gmail.com"
 
 ################################### English language #####################################
 [Languages.en]

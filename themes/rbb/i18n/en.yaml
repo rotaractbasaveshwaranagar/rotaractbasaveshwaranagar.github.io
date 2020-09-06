@@ -60,6 +60,15 @@
 - id: fee
   translation: fee
 
+- id : rbb
+  translation: RBB
+
+- id: upcoming_events
+  translation: Upcoming Events
+
+- id: events
+  translation: Events
+
 - id: teacher
   translation: teacher
 

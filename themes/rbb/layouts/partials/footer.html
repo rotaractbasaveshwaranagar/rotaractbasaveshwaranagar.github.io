@@ -7,15 +7,15 @@
         <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
           <!-- logo -->
           <a class="logo-footer" href="{{ .Site.BaseURL | relLangURL }}"><img class="img-fluid mb-4" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
-          <ul class="list-unstyled">
+          <!-- <ul class="list-unstyled">
             <li class="mb-4">{{ .Site.Params.address | markdownify }}</li>
             <li class="mb-4">{{ .Site.Params.email | markdownify }}</li>
             <li class="mb-4">{{ .Site.Params.mobile | markdownify }}</li>
-          </ul>
+          </ul> -->
         </div>
         <!-- company -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "company" }}</h4>
+          <h4 class="text-white mb-5 text-uppercase">{{ i18n "rbb" }}</h4>
           <ul class="list-unstyled">
             {{ range .Site.Menus.main }}
             {{ if not .HasChildren }}
@@ -26,31 +26,23 @@
         </div>
         <!-- links -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "links" }}</h4>
+          <h4 class="text-white mb-5 text-uppercase">{{ i18n "events" }}</h4>
           <ul class="list-unstyled">
-            {{ range .Site.Menus.footer }}
-            <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-        <!-- support -->
-        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "courses" }}</h4>
-          <ul class="list-unstyled">
-            {{ range first 5 (where .Site.RegularPages "Type" "course")}}
+            {{ range first 3 (where .Site.RegularPages "Type" "completed_events")}}
             <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
         </div>
         <!-- support -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "new_notice" }}</h4>
+          <h4 class="text-white mb-5 text-uppercase">{{ i18n "upcoming_events" }}</h4>
           <ul class="list-unstyled">
-            {{ range first 3 (where .Site.RegularPages "Type" "notice")}}
+            {{ range first 3 (where .Site.RegularPages "Type" "event")}}
             <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
         </div>
+
       </div>
     </div>
   </div>
@@ -59,7 +51,6 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-7 text-sm-left text-center">
-          <p class="mb-0">{{ .Site.Params.copyright | markdownify }}</p>
         </div>
         <div class="col-sm-5 text-sm-right text-center">
           <ul class="list-inline">
