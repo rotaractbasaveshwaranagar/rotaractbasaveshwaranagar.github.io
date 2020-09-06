@@ -11,8 +11,8 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Join Us"
-        link : "contact"
+        label : "About Us"
+        link : "about"
 
     # slider item loop
     - title : "Inspire and Lead to be the change"
@@ -23,18 +23,18 @@ slider:
       button:
         enable : true
         label : "Join Us"
-        link : "contact"
+        link : "joinus"
 
     # slider item loop
     - title : "Do your part for the community"
-      content : ""
+      content : "Projects to make a better place to live"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Join Us"
-        link : "contact"
+        label : "Our Events"
+        link : "event"
 
 
 ############################### Banner feature ###############################
