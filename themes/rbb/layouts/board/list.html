@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<!-- boards -->
+<section class="section">
+  <div class="container">
+    <!-- board list -->
+    <div class="row filtr-container">
+      <!-- board -->
+      {{ range .Data.Pages }}
+      <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6 filtr-item">
+        {{ .Render "board" }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

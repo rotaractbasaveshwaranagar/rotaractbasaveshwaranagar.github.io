@@ -1,54 +1,49 @@
-{{/* range .Values.software.software1.environments.dev.resourcesDeployed */ -}}
-{{/* if eq . "Service" */ -}}
+
 apiVersion: v1
 kind: Service
 metadata:
-  labels:
-    softwareId: '{{$.Values.software.software1.softwareId}}'
-    softwareName: '{{$.Values.software.software1.softwareName}}'
-  name: '{{$.Values.software.software1.softwareName}}-service'
+  name: '{{$.Values.software.softwareName}}-service'
   namespace: '{{$.Values.namespace}}'
+  labels:
+    softwareId: '{{$.Values.software.softwareId}}'
+    softwareName: '{{$.Values.software.softwareName}}'
 spec:
   ports:
-  - name: web
-    port: 8080
-    protocol: TCP
+    - name: "web"
+      protocol: "TCP"
+      port: 8080
   selector:
-    app: '{{$.Values.software.software1.softwareName}}'
+      app: '{{$.Values.software.softwareName}}'
   type: ClusterIP
-{{- /* end */}}
-{{- /* end */}}
 ---
-{{/* range .Values.software.software1.environments.dev.resourcesDeployed */ -}}
-{{/* if eq . "Deployment" */ -}}
+
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  labels:
-    softwareId: '{{$.Values.software.software1.softwareId}}'
-    softwareName: '{{$.Values.software.software1.softwareName}}'
-  name: '{{$.Values.software.software1.softwareName}}'
+  name: '{{$.Values.software.softwareName}}'
   namespace: '{{$.Values.namespace}}'
+  labels:
+    softwareId: '{{$.Values.software.softwareId}}'
+    softwareName: '{{$.Values.software.softwareName}}'
 spec:
-  replicas: 1
   selector:
     matchLabels:
-      app: '{{$.Values.software.software1.softwareName}}'
+      app: '{{$.Values.software.softwareName}}'
+  replicas: 1
   template:
     metadata:
-      labels:
-        app: '{{$.Values.software.software1.softwareName}}'
-        environment: '{{$.Values.environment.name}}'
-        softwareId: '{{$.Values.software.software1.softwareId}}'
-        softwareName: '{{$.Values.software.software1.softwareName}}'
       namespace: '{{$.Values.namespace}}'
+      labels:
+        app: '{{$.Values.software.softwareName}}'
+        environment: '{{$.Values.environment.name}}'
+        softwareId: '{{$.Values.software.softwareId}}'
+        softwareName: '{{$.Values.software.softwareName}}'
     spec:
       containers:
-      - image: '{{$.Values.software.software1.image.containerRepo}}'
+      - image: '{{$.Values.software.image.containerRepo}}'
         imagePullPolicy: IfNotPresent
-        name: '{{$.Values.software.software1.softwareName}}'
+        name: '{{$.Values.software.softwareName}}'
         ports:
         - containerPort: 8080
-{{- /* end */}}
-{{- /* end */}}
----
+      imagePullSecrets:
+      - name: rbb-cdconsole-bot-pull-secret

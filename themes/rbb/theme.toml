@@ -1,0 +1,13 @@
+name = "RBB"
+description = "A theme developed upon educenter-hugo"
+homepage = "https://rbbat3190.org"
+tags = ['fast', 'modern', 'minimal']
+features = ["blog", "company", "responsive"]
+min_version = "0.60.0"
+
+[author]
+  name = "rbb"
+
+[original]
+  name = "Educenter"
+  homepage = "https://themefisher.com/products/education-template/"
