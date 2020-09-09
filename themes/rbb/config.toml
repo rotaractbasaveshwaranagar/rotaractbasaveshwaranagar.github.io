@@ -94,7 +94,7 @@ author = "Themefisher"
 # contact info
 address = "Basaveshwaranagar, Banagalore, Karnataka"
 mobile = "+91-9535179196"
-email = "chiranthans23@gmail.com"
+email = "rotaractcb2@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -106,7 +106,7 @@ email_icon="ti-email"
 # Preloader
 [params.preloader]
 enable = true
-preloader = "./images/preloader-rbb.gif" # use jpg, png, svg or gif format.
+preloader = "./images/preloader2.svg" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
