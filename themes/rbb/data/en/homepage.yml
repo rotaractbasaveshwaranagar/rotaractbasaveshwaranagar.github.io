@@ -1,7 +1,7 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/Rbb1.JPG"
+  bg_image : "images/banner/landing-pic.jpg"
   slider_item:
     # slider item loop
     - title : "Rotaract Club of Basaveshwarnagar"
@@ -40,7 +40,7 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner-feature.png"
+  image : "images/banner/idea.png"
   feature_item:
     # feature item loop
     - name : "Our Proud Members"
