@@ -2,11 +2,19 @@
 
 <section class="section">
   <div class="container">
+      <div class="row">
+          <div class="col-lg-12 content">
+              {{ with .Params.Image }}
+              <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="donate image" >
+              {{ end }}
+          </div>
+      </div>
     <div class="row">
         <div class="col-lg-12">
           <h2 class="section-title">Contact</h2>
         </div>
       </div>
+
     <!-- board list -->
     <div class="row filtr-container">
         {{ range first 12 (where .Site.RegularPages "Type" "board") }}
