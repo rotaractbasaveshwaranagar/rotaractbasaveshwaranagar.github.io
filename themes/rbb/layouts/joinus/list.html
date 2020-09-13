@@ -19,7 +19,9 @@
         </form>
       </div>
       <div class="col-lg-5 content">
-        {{ .Content }}
+        {{ with .Params.Image }}
+        <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="about image" >
+        {{ end }}
       </div>
     </div>
   </div>
