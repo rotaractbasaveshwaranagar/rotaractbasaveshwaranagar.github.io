@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-draft: false
+draft: true
 type: "page"
 # page title background image
 bg_image: "images/backgrounds/page-background.png"
