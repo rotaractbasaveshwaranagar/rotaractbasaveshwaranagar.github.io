@@ -18,10 +18,10 @@ RUN tar xzf /usr/local/hugo/${HUGO_BINARY}.tar.gz -C /usr/local/hugo/ \
 RUN mkdir /app
 WORKDIR /app
 COPY startup.sh /app/startup.sh
-COPY themes /app/themes
+COPY site /app/site
 COPY resources /app/resources
 RUN chmod -R 777 /app
-RUN chmod -R 777 /app/themes/*
+RUN chmod -R 777 /app/site/*
 RUN chmod +x startup.sh
 EXPOSE 1313
 CMD ["sh","startup.sh"]
