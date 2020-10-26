@@ -19,7 +19,6 @@ RUN mkdir /app
 WORKDIR /app
 COPY startup.sh /app/startup.sh
 COPY site /app/site
-COPY resources /app/resources
 RUN chmod -R 777 /app
 RUN chmod -R 777 /app/site/*
 RUN chmod +x startup.sh
