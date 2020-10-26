@@ -10,8 +10,6 @@ summaryLength = "10"
 disqusShortname = "educenter" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
-relativeURLs = true
-uglyURLs = true
 
 ############################# Plugins ##############################
 
