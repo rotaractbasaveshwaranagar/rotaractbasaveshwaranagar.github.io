@@ -1,0 +1,143 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/landing-pic.jpg"
+  slider_item:
+    # slider item loop
+    - title : "Rotaract Club of Basaveshwarnagar"
+      content : "A community based club of youngsters"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "About Us"
+        link : "about"
+
+    # slider item loop
+    - title : "Inspire and Lead to be the change"
+      content : "A youngsters club for ages 18 to 30"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Join Us"
+        link : "joinus"
+
+    # slider item loop
+    - title : "Do your part for the community"
+      content : "Projects to make a better place to live"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Our Events"
+        link : "event"
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/idea.png"
+  feature_item:
+    # feature item loop
+    - name : "Our Proud Members"
+      content : "An enthustatic group of youngsters between the ages 18 to 30 with various cultures, talents and professions."
+      icon : "ti-user" # icon pack : https://themify.me/themify-icons
+      link : "board"
+    
+    # feature item loop
+    - name : "Our Major Events"
+      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      content : "***Need little content here***"
+      link: "event"
+
+    # feature item loop
+    - name : "Our Achievements"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "***Need little content here***"
+    
+
+    # feature item loop
+    - name : "Register Now, Join us"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "***Need little content here***"
+      link: "joinus"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "About Rotaract"
+  image : "images/rbbPic1.png"
+  content : "Rotaract clubs bring together people ages 18-30 to exchange ideas with leaders in the community, develop leadership and professional skills, and have fun through service. In communities worldwide, Rotary and Rotaract members work side by side to take action through service. From big cities to rural villages, Rotaract is changing communities like yours."
+  button:
+    enable : true
+    label : "Learn more"
+    link : "about"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "Our Course"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : "Click to Join the Advance Workshop"
+  title : "Training In Advannce Networking"
+  button:
+    enable : true
+    label : "join now"
+    link : "contact"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  title : "Success Stories"
+  content : "We chartered our club on June 25th 2019. We have successfuly completed one beautiful year, here is a glimpse of it.... *****More to be added*****"
+  # video link
+  video_link : "https://www.youtube.com/watch?v=v2wdIz_BDqc"
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "Upcoming Events"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "MEMBERS"
+      count : "60"
+
+    # funfact item loop
+    - name : "EVENTS"
+      count : "50"
+
+    # funfact item loop
+    - name : "ATTENDEES"
+      count : "1000"
+
+    # funfact item loop
+    - name : "COLLABORATIONS"
+      count : "1400"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+completed_events:
+  enable : true
+  title : "Sneek Peek of our Events"
