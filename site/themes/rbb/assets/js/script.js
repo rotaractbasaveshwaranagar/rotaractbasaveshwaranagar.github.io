@@ -164,7 +164,7 @@
                         'Content-Type': 'application/json',
                         'Access-Control-Allow-Origin': '*',
                 },
-                data        : formData, // our data object
+                data        : JSON.stringify(formData), // our data object
                 dataType    : 'json', // what type of data do we expect back from the server
                 encode      : true
             })
