@@ -160,6 +160,7 @@
                 url         : 'https://rbb-data-api.cisco.com/api/v1/rbb/member-login', // the url where we want to POST
                 headers: {
                         'Content-Type': 'application/json',
+                        'Access-Control-Allow-Origin': '*',
                 },
                 data        : formData, // our data object
                 dataType    : 'json', // what type of data do we expect back from the server
