@@ -150,8 +150,8 @@
             // get the form data
             // there are many ways to get this data using jQuery (you can use the class or id also)
             var formData = {
-                'username'              : $('input[name=name]').val(),
-                'password'             : $('input[name=mail]').val()
+                'userName'              : $('input[name=username]').val(),
+                'password'             : $('input[name=password]').val()
             };
 
             // process the form
