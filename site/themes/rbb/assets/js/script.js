@@ -115,15 +115,18 @@
           var formData = {
               'name'       : $('input[name=name]').val(),
               'mail'       : $('input[name=mail]').val(),
-              'subject'    : $('input[name=subject]').val(),
-              'message'    : $('input[name=message]').val()
+              'reason'    : $('input[name=message]').val()
           };
 
           // process the form
           $.ajax({
               type        : 'POST', // define the type of HTTP verb we want to use (POST for our form)
               url         : 'https://rbb-data-api.cisco.com/api/v1/rbb/join-us', // the url where we want to POST
-              data        : formData, // our data object
+              headers: {
+                      'Content-Type': 'application/json',
+                      'Access-Control-Allow-Origin': '*',
+              },
+              data        : JSON.stringify(formData), // our data object
               dataType    : 'json', // what type of data do we expect back from the server
               encode          : true
           })

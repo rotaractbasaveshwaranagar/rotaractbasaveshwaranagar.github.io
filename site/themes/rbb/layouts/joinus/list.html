@@ -13,8 +13,7 @@
         <form action="{{ .Site.Params.contact_form_action | safeURL }}" method="POST" id="joinUsForm">
           <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Your Name">
           <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Your Email">
-          <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="Subject">
-          <textarea name="message" id="message" class="form-control mb-3" placeholder="Your Message"></textarea>
+          <textarea name="reason" id="reason" class="form-control mb-3" placeholder="Why do want to join us?"></textarea>
           <button type="submit" value="send" class="btn btn-primary">{{ i18n "send" }}</button>
         </form>
       </div>
