@@ -24,9 +24,9 @@ jobs:
         extended: true
 
 
-    # build website
+    # build websiteå
     - name: Build
-      run: cd site &&  hugo --minify --themesDir ./themes --config ./themes/rbb/config.toml
+      run: cd site/themes/rbb &&  hugo --minify --themesDir ./themes --config ./themes/rbb/config.toml
 
     # push the generated content into the `main` (former `master`) branch.
     - name: Deploy
