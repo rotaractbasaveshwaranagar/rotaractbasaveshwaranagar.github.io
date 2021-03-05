@@ -95,7 +95,8 @@ address = "Basaveshwaranagar, Banagalore, Karnataka"
 mobile = "+91-9535179196"
 email = "rotaractcb2@gmail.com"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://rbb-data-api.cisco.com/api/v1/rbb/join-us" # contact form works with https://formspree.io
+login_form_action = "https://rbb-data-api.cisco.com/api/v1/rbb/member-login"
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header
