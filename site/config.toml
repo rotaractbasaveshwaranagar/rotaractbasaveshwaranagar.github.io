@@ -1,4 +1,0 @@
-baseURL = "https://rbb.cisco.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "rbb"
