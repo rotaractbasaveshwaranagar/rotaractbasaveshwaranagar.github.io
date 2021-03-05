@@ -23,6 +23,7 @@ jobs:
         hugo-version: '0.77.0'
         extended: true
 
+
     # build website
     - name: Build
       run: cd site/themes/rbb && hugo --minify && cp CNAME ./public/
