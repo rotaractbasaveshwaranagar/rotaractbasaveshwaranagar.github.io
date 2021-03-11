@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://rbb.cisco.com/"
 title = "rbbat3190"
-theme = "rbb"
+theme = "rbb-website-theme"
 # post pagination
 paginate = "6"
 # post excerpt
@@ -153,16 +153,5 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
