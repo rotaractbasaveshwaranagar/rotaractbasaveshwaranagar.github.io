@@ -40,7 +40,7 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/idea.png"
+  image : "images/banner/diverse.png"
   feature_item:
     # feature item loop
     - name : "Our Proud Members"
