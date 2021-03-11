@@ -62,11 +62,6 @@ name = "Join Us"
 URL = "joinus"
 weight = 3
 
-[[menu.main]]
-name = "Login"
-URL = "login"
-weight = 4
-
 
 # footer menu
 
