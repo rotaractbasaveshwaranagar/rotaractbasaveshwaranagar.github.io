@@ -11,7 +11,7 @@ bg_image: "images/backgrounds/page-background.png"
 # meta description
 description : "An event of Desi games for club members, Rotarians and school children"
 # Event image
-image: "images/events/kreeda.png"
+image: "images/events/kreeda-sambrama.png"
 # location
 location: "PVP, Basaveshwaranagar"
 # entry fee

@@ -11,7 +11,7 @@ bg_image: "images/backgrounds/page-background.png"
 # meta description
 description : "A rally for promoting local goods, deepavali celebration with orphanage kids and police"
 # Event image
-image: "images/events/deepavali-swadeshi.jpeg"
+image: "images/events/deepavali-swadeshi.png"
 # location
 location: "Basaveshwaranagar, Bangalore"
 # entry fee
