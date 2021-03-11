@@ -9,7 +9,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-background.png"
 # meta description
-description : "A fund raiser for local artists"
+description : "Feed the Stray Initiative"
 # Event image
 image: "images/events/idi.png"
 # location
@@ -21,7 +21,7 @@ apply_url : "#"
 
 
 # type
-type: "completed_events"
+type: "event"
 ---
 
 ### About Event
