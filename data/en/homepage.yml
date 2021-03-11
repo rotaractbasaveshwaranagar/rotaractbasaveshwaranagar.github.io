@@ -4,7 +4,7 @@ slider:
   bg_image : "images/banner/landing-pic.jpg"
   slider_item:
     # slider item loop
-    - title : "Rotaract Club of Basaveshwarnagar"
+    - title : "Rotaract Club of Basaveshwaranagar"
       content : "A community based club of youngsters"
       animation_in : "left"
       animation_out : "right"
@@ -78,22 +78,6 @@ about:
     label : "Learn more"
     link : "about"
 
-
-############################# Course ################################
-course:
-  enable : true
-  title : "Our Course"
-  # course item comes from "content/**/course" folder.
-
-########################## Call to action ############################
-cta:
-  enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
-  button:
-    enable : true
-    label : "join now"
-    link : "contact"
 
 
 ######################## Success story #############################
