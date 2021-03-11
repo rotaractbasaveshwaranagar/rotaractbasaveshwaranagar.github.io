@@ -1,5 +1,4 @@
 ######################## default configuration ####################
-baseURL = "https://rbb.cisco.com/"
 title = "rbbat3190"
 theme = "rbb-website-theme"
 # post pagination
