@@ -71,7 +71,7 @@ banner_feature:
 about:
   enable : true
   title : "About Rotaract"
-  image : "images/rbbPic1.png"
+  image : "images/homepage/rbbPic1.png"
   content : "Rotaract clubs bring together people ages 18-30 to exchange ideas with leaders in the community, develop leadership and professional skills, and have fun through service. In communities worldwide, Rotary and Rotaract members work side by side to take action through service. From big cities to rural villages, Rotaract is changing communities like yours."
   button:
     enable : true
