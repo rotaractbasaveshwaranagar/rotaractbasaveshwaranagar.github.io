@@ -10,31 +10,31 @@ image: "images/heads/sirisha.jpeg"
 # course
 course: "Secretary"
 # interest
-interest: ["Piano","Computer Security","Human Computer Interfacing"]
+interest: [Volleyball, Travelling. ]
 # contact info
 contact:
   # contact item loop
-  - name : "chiranthans23@gmail.com"
+  - name : "sirishashetty3@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:chiranthans23@gmail.com"
+    link : "mailto:sirishashetty3@gmail.com"
 
   # contact item loop
-  - name : "+91 9535179196"
+  - name : "+91 9591148825"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+91 9535179196"
+    link : "tel:+91 9591148825"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Sirisha Shetty"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
   
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Sirisha Shetty"
     icon : "ti-instagram" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Sirisha Shetty"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
     link : "#"
 

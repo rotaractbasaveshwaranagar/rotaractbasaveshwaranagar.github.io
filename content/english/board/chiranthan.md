@@ -10,7 +10,7 @@ image: "images/heads/chiranthan.jpeg"
 # course
 course: "President"
 # interest
-interest: ["Piano","Computer Security","Human Computer Interfacing"]
+interest: ["Piano","Acting","Badminton"]
 # contact info
 contact:
   # contact item loop
@@ -36,7 +36,7 @@ contact:
   # contact item loop
   - name : "Chiranthan S"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://www.linkedin.com/in/chiranthans23/"
 
 
 

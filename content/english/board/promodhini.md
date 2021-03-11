@@ -10,31 +10,31 @@ image: "images/heads/promodhini.jpg"
 # course
 course: "Public Relations"
 # interest
-interest: ["Piano","Computer Security","Human Computer Interfacing"]
+interest: [Dancing ,art ]
 # contact info
 contact:
   # contact item loop
-  - name : "chiranthans23@gmail.com"
+  - name : "pramodhinia@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:chiranthans23@gmail.com"
+    link : "mailto:pramodhinia@gmail.com"
 
   # contact item loop
-  - name : "+91 9535179196"
+  - name : "+91 7338107036"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+91 9535179196"
+    link : "tel:+91 7338107036"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Promodhini A"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
   
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Promodhini A"
     icon : "ti-instagram" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Promodhini A"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
     link : "#"
 

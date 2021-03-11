@@ -10,13 +10,13 @@ image: "images/heads/suma.jpg"
 # course
 course: "Community Service Jt Director"
 # interest
-interest: ["Piano","Computer Security","Human Computer Interfacing"]
+interest: [Music, spending time in nature, social service]
 # contact info
 contact:
   # contact item loop
-  - name : "chiranthans23@gmail.com"
+  - name : "sumashambhavi@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:chiranthans23@gmail.com"
+    link : "mailto:sumashambhavi@gmail.com"
 
   # contact item loop
   - name : "+91 9535179196"
@@ -24,17 +24,17 @@ contact:
     link : "tel:+91 9535179196"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Suma Shambavi"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
   
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Suma Shambavi"
     icon : "ti-instagram" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Suma Shambavi"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
     link : "#"
 

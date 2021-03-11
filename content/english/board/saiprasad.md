@@ -10,31 +10,31 @@ image: "images/heads/saiprasad.jpg"
 # course
 course: "Sergeant At Arms"
 # interest
-interest: ["Piano","Computer Security","Human Computer Interfacing"]
+interest: [Biking, MMA, Off-roading]
 # contact info
 contact:
   # contact item loop
-  - name : "chiranthans23@gmail.com"
+  - name : "sm.saiprasad.97@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:chiranthans23@gmail.com"
+    link : "mailto:sm.saiprasad.97@gmail.com"
 
   # contact item loop
-  - name : "+91 9535179196"
+  - name : "+91 9740909497"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+91 9535179196"
+    link : "tel:+91 9740909497"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Sai Prasad"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
   
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Sai Prasad"
     icon : "ti-instagram" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Sai Prasad"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
     link : "#"
 

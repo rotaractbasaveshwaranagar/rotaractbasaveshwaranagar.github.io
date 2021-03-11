@@ -10,31 +10,31 @@ image: "images/heads/nikhil.jpg"
 # course
 course: "Community Service Director"
 # interest
-interest: ["Piano","Computer Security","Human Computer Interfacing"]
+interest: [Reading books, working out , cooking]
 # contact info
 contact:
   # contact item loop
-  - name : "chiranthans23@gmail.com"
+  - name : "km.nikhil1996@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:chiranthans23@gmail.com"
+    link : "mailto:km.nikhil1996@gmail.com"
 
   # contact item loop
-  - name : "+91 9535179196"
+  - name : "+91 9901004208"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+91 9535179196"
+    link : "tel:+91 9901004208"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Nikhil KM"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
   
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Nikhil KM"
     icon : "ti-instagram" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Nikhil KM"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
     link : "#"
 

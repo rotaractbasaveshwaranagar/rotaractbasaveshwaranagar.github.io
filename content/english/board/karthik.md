@@ -10,31 +10,31 @@ image: "images/heads/karthik.jpg"
 # course
 course: "Professional Development"
 # interest
-interest: ["Piano","Computer Security","Human Computer Interfacing"]
+interest: [Music, Writing]
 # contact info
 contact:
   # contact item loop
-  - name : "chiranthans23@gmail.com"
+  - name : "karthikshastry.s@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:chiranthans23@gmail.com"
+    link : "mailto:karthikshastry.s@gmail.com"
 
   # contact item loop
-  - name : "+91 9535179196"
+  - name : "+91 8050551851"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+91 9535179196"
+    link : "tel:+91 8050551851"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Karthik Shastry"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
   
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Karthik Shastry"
     icon : "ti-instagram" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Karthik Shastry"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
     link : "#"
 

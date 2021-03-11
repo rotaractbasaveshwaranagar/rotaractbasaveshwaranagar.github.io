@@ -10,31 +10,31 @@ image: "images/heads/subramanya.jpg"
 # course
 course: "International Service Director"
 # interest
-interest: ["Piano","Computer Security","Human Computer Interfacing"]
+interest: [Teaching, Cricket]
 # contact info
 contact:
   # contact item loop
-  - name : "chiranthans23@gmail.com"
+  - name : "vssubbu693@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:chiranthans23@gmail.com"
+    link : "mailto:vssubbu693@gmail.com"
 
   # contact item loop
-  - name : "+91 9535179196"
+  - name : "+91 9964239235"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+91 9535179196"
+    link : "tel:+91 9964239235"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Subramanya V"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
   
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Subramanya V"
     icon : "ti-instagram" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Subramanya V"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
     link : "#"
 

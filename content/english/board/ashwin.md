@@ -10,34 +10,33 @@ image: "images/heads/ashwin.JPG"
 # course
 course: "Immediate Past President"
 # interest
-interest: ["Piano","Computer Security","Human Computer Interfacing"]
+interest: ["Sketching", "Traveling", "Writing", "Origami"]
 # contact info
 contact:
   # contact item loop
-  - name : "chiranthans23@gmail.com"
+  - name : "ashwinbm0294@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:chiranthans23@gmail.com"
+    link : "mailto:ashwinbm0294@gmail.com"
 
   # contact item loop
-  - name : "+91 9535179196"
+  - name : "+91 7760282309"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+91 9535179196"
+    link : "tel:+91 7760282309"
 
   # contact item loop
-  - name : "Chiranthan S"
-    icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-    link : "#"
-  
-  # contact item loop
-  - name : "Chiranthan S"
+  - name : "Ashwin B M"
     icon : "ti-instagram" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Chiranthan S"
+  - name : "Ashwin B M"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
     link : "#"
 
+  # contact item loop
+  - name : "Ashwin B M"
+    icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+    link : "#"
 
 
 
