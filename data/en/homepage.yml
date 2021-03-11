@@ -51,19 +51,19 @@ banner_feature:
     # feature item loop
     - name : "Our Major Events"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "***Need little content here***"
+      content : "Feed the stray, Teach mission, Swadeshi, Speakeasy, Kreedasambrahma"
       link: "event"
 
     # feature item loop
     - name : "Our Achievements"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "***Need little content here***"
+      content : "Platinum citation, Best Professional Service project, Promising club, Best president and secretary"
     
 
     # feature item loop
-    - name : "Register Now, Join us"
+    - name : "Join us"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "***Need little content here***"
+      content : "Happy to welcome you"
       link: "joinus"
 
 
@@ -123,15 +123,15 @@ funfacts:
 
     # funfact item loop
     - name : "EVENTS"
-      count : "50"
+      count : "22"
 
     # funfact item loop
     - name : "ATTENDEES"
-      count : "1000"
+      count : "470"
 
     # funfact item loop
     - name : "COLLABORATIONS"
-      count : "1400"
+      count : "11"
 
 # funfact is for about page
 
