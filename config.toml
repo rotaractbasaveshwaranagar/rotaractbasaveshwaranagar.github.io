@@ -95,7 +95,7 @@ mobile_icon="ti-mobile"
 email_icon="ti-email"
 # Preloader
 [params.preloader]
-enable = false
+enable = true
 preloader = "./images/preloader.svg" # use jpg, png, svg or gif format.
 
 
