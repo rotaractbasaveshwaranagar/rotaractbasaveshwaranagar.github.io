@@ -5,10 +5,6 @@ theme = "rbb-website-theme"
 paginate = "6"
 # post excerpt
 summaryLength = "10"
-# disqus short name
-disqusShortname = "educenter" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = [] # desable language from here
 
 ############################# Plugins ##############################
 
@@ -100,7 +96,8 @@ email_icon="ti-email"
 # Preloader
 [params.preloader]
 enable = true
-preloader = "./images/preloader2.svg" # use jpg, png, svg or gif format.
+preloader = "./images/preloader.svg" # use jpg, png, svg or gif format.
+
 
 # Subscription
 [params.subscription]
@@ -126,18 +123,18 @@ value="rotaractbasaveshwaranagar"
 
 [[params.social]]
 title = "youtube"
-icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UCmYR-QT8Ak4g20U-iletA7Q"
 value="rotaract bangalore basaveshwarnagar"
 
 [[params.social]]
 title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+icon = "ti-instagram"
 link = "https://www.instagram.com/rbbat3190/"
 
 [[params.social]]
 title = "mail"
-icon = "ti-email" # themify icon : https://themify.me/themify-icons
+icon = "ti-email"
 link = "mailto:rotaractcb2@gmail.com"
 
 ################################### English language #####################################
