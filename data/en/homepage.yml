@@ -109,7 +109,7 @@ success_story:
 ############################# event ################################
 event:
   enable : true
-  title : "Upcoming Events"
+  title : "Recent Events"
   # event item comes from "content/**/event" folder.
 
   
@@ -140,4 +140,4 @@ funfacts:
 ############################# blog ################################
 completed_events:
   enable : true
-  title : "Sneek Peek of our Events"
+  title : "Upcoming events"
