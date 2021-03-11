@@ -59,7 +59,7 @@ weight = 5
 
 [[menu.main]]
 name = "Join Us"
-URL = "joinus"
+URL = "mailto:rotaractcb2@gmail.com"
 weight = 3
 
 
@@ -67,7 +67,7 @@ weight = 3
 
 [[menu.footer]]
 name = "Join Us"
-URL = "joinus"
+URL = "mailto:rotaractcb2@gmail.com"
 
 [[menu.footer]]
 name = "Events"
