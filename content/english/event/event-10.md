@@ -1,24 +1,23 @@
 ---
-title: "International dance idol"
-# Schedule page publish date
-publishDate: "2020-10-26T00:00:00Z"
+title: "LinkedIn profiling"
+
+publishDate: "2020-08-23T00:00:00Z"
 # event date
-date: "2020-10-26T15:27:17+06:00"
+date: "2020-08-23T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-background.png"
 # meta description
-description : "Feed the Stray Initiative"
+description : "A proffesional development to understand how to use LinkedIn, the best way"
 # Event image
-image: "images/events/idi.png"
+image: "images/events/linkedin.png"
 # location
 location: "Zoom"
 # entry fee
 fee: "From: $0"
 # apply url
 apply_url : "#"
-
 
 # type
 type: "event"

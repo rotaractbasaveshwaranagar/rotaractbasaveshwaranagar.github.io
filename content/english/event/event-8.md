@@ -13,7 +13,7 @@ description : "A session on understanding taxation process and filing income tax
 # Event image
 image: "images/events/taxation.png"
 # location
-location: "Basaveshwaranagar, Bangalore"
+location: "Zoom"
 # entry fee
 fee: "From: $0"
 # apply url

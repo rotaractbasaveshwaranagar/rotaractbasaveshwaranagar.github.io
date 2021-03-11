@@ -1,19 +1,19 @@
 ---
-title: "International dance idol"
+title: "Back to library - Phase 1"
 # Schedule page publish date
-publishDate: "2020-10-26T00:00:00Z"
+publishDate: "2020-10-17T00:00:00Z"
 # event date
-date: "2020-10-26T15:27:17+06:00"
+date: "2020-10-17T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-background.png"
 # meta description
-description : "Feed the Stray Initiative"
+description : "Organising the library of a government school"
 # Event image
-image: "images/events/idi.png"
+image: "images/events/library1.png"
 # location
-location: "Zoom"
+location: "PVP, Basaveshwaranagar"
 # entry fee
 fee: "From: $0"
 # apply url

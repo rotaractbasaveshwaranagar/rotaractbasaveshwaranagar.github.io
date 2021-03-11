@@ -1,19 +1,19 @@
 ---
-title: "International dance idol"
+title: "Swadeshi Deepavali"
 # Schedule page publish date
-publishDate: "2020-10-26T00:00:00Z"
+publishDate: "2020-11-25T00:00:00Z"
 # event date
-date: "2020-10-26T15:27:17+06:00"
+date: "2020-11-25T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-background.png"
 # meta description
-description : "Feed the Stray Initiative"
+description : "A rally for promoting local goods, deepavali celebration with orphanage kids and police"
 # Event image
-image: "images/events/idi.png"
+image: "images/events/deepavali-swadeshi.jpeg"
 # location
-location: "Zoom"
+location: "Basaveshwaranagar, Bangalore"
 # entry fee
 fee: "From: $0"
 # apply url
