@@ -25,3 +25,4 @@ type: "event"
 ---
 
 ### About Event
+NGAGE (Next Gen Advocates of Gender Equity): RBB partnered with Durga Foundation for India’s First ever virtual ‘GENDER EQUITY FORUM’ which was started on 10th December and went on for 3 days. The distinguished plenary speakers at the Forum, given their diverse backgrounds and the nature of societal inequities they aim to set right, will inspire our young attendees to become active citizens who can rectify their personal and collective issues with gender-equitable solutions – paving the way for a gender-equitable and sustainable future. NGAGE Forum provided a platform for Youth across the country, to share, receive and unlearn Gender as a concept and view it through various lenses
