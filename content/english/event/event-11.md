@@ -25,3 +25,10 @@ type: "event"
 ---
 
 ### About Event
+We had 3 days event for Deepavali:
+Day 1: Spreading awareness on going Vocal for Local.
+We held placards in the signals to encourage everyone to buy Diyas from Local vendors & support them.
+
+Day 2: We had online event which was held to know how Diwali is celebrated all over the world & we had fun quiz.
+
+Day 3: We visited Basaveshwaranagara police station, decorated the station by lighting the lamps we bought on Day 1 and Distributed Masks & Sanitizers to all the Police men & women in the station as a regard for their service during lock down.
