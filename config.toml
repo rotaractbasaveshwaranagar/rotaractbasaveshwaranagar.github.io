@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 title = "rbbat3190"
-baseURL="https://rotaractbasaveshwaranagar.github.io/"
+baseURL="https://rotaractbasaveshwaranagar.org/"
 theme = "rbb-website-theme"
 # post pagination
 paginate = "6"
@@ -77,7 +77,7 @@ URL = "about"
 
 #################### default parameters ################################
 [params]
-logo = "images/homepage/logo2.png"
+logo = "images/homepage/rbbLogo.png"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"

@@ -25,3 +25,6 @@ type: "event"
 ---
 
 ### About Event
+_**"All work and no play makes Jack a dull boy"**_
+
+We had Swadeshi games event on 6th February, 2020. We played: Kho-kho, Kabbadi, Chowka Bhara, Aluguli mane, Kunte bille, Tug of war, Lagori. We had Kids from 6th STD-10th STD of PVP school, Teachers, Rotarians, Rotaractors present for the event. This event was done to spread knowledge about Swadeshi games & also to engage the kids who were attending classes post Corona.
