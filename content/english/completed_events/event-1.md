@@ -1,5 +1,5 @@
 ---
-title: "International dance idol"
+title: "DRR's official visit"
 # Schedule page publish date
 publishDate: "2021-04-01T00:00:00Z"
 # event date
