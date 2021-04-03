@@ -19,7 +19,7 @@ contact:
     link : "mailto:alakaprasad22@gmail.com"
 
   # contact item loop
-  - name : "+91 7760282309"
+  - name : "+91 9538280295"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:+91 7760282309"
 
