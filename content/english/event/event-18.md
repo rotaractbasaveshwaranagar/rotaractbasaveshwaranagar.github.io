@@ -21,7 +21,7 @@ apply_url : "#"
 
 
 # type
-type: "completed_events"
+type: "event"
 ---
 
 ### About Event
