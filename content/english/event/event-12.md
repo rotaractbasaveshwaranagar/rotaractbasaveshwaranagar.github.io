@@ -3,7 +3,7 @@ title: "Letterhead exchange"
 # Schedule page publish date
 publishDate: "2021-02-10T00:00:00Z"
 # event date
-date: "2021-02-10T15:27:17+06:00"
+date: "2021-02-10T15:27:17+05:30"
 # post save as draft
 draft: false
 # page title background image

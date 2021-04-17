@@ -3,7 +3,7 @@ title: "The joy of giving"
 # Schedule page publish date
 publishDate: "2021-02-01T00:00:00Z"
 # event date
-date: "2021-02-01T15:27:17+06:00"
+date: "2021-02-01T19:00:17+05:30"
 # post save as draft
 draft: false
 # page title background image

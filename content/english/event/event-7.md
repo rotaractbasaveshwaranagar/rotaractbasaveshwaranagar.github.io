@@ -3,7 +3,7 @@ title: "International dance idol"
 # Schedule page publish date
 publishDate: "2020-10-26T00:00:00Z"
 # event date
-date: "2020-10-26T15:27:17+06:00"
+date: "2020-10-26T16:00:17+05:30"
 # post save as draft
 draft: false
 # page title background image

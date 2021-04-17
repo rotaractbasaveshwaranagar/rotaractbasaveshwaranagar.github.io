@@ -3,7 +3,7 @@ title: "Installation"
 # Schedule page publish date
 publishDate: "2020-08-15T00:00:00Z"
 # event date
-date: "2020-08-16T15:27:17+06:00"
+date: "2020-08-16T16:00:17+05:30"
 # post save as draft
 draft: false
 # page title background image

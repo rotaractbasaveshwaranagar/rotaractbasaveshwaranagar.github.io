@@ -3,7 +3,7 @@ title: "Kreeda sambhrama"
 # Schedule page publish date
 publishDate: "2021-02-06T00:00:00Z"
 # event date
-date: "2021-02-06T15:27:17+06:00"
+date: "2021-02-06T09:00:00.000+05:30"
 # post save as draft
 draft: false
 # page title background image

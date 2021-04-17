@@ -3,7 +3,8 @@ title: "DRR's official visit"
 # Schedule page publish date
 publishDate: "2021-04-01T00:00:00Z"
 # event date
-date: "2021-04-04T17:30:17+06:00"
+
+date: "2021-04-04T17:45:00.000+05:30"
 # post save as draft
 draft: false
 # page title background image

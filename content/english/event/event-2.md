@@ -3,7 +3,7 @@ title: "Sow'em All"
 # Schedule page publish date
 publishDate: "2020-08-18T00:00:00Z"
 # event date
-date: "2020-08-31T15:27:17+06:00"
+date: "2020-08-31T08:00:17+05:30"
 # post save as draft
 draft: false
 # page title background image

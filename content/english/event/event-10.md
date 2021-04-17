@@ -3,7 +3,7 @@ title: "LinkedIn profiling"
 
 publishDate: "2020-08-23T00:00:00Z"
 # event date
-date: "2020-08-23T15:27:17+06:00"
+date: "2020-08-23T10:00:17+05:30"
 # post save as draft
 draft: false
 # page title background image

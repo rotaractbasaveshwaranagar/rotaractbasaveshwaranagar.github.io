@@ -2,8 +2,8 @@
 title: "Back to library - Phase 2"
 # Schedule page publish date
 publishDate: "2020-10-24T00:00:00Z"
-# event date
-date: "2020-10-24T15:27:17+06:00"
+# event date 
+date: "2020-10-24T08:00:00.000+05:30"
 # post save as draft
 draft: false
 # page title background image
