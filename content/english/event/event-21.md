@@ -25,4 +25,4 @@ type: "event"
 ---
 
 ### About Event
-A meeting for getting to know about each other as a club. We also talked about _Speakeasy_ project and working with Rac NSBM regarding the same.
+Voted our next President of RBB. *Rtr. Pushpita Roy*, won and is the President elect for this year.

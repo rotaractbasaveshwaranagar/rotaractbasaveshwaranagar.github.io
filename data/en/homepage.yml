@@ -87,7 +87,7 @@ success_story:
   title : "Success Stories"
   content : "We chartered our club on June 25th 2019. We have successfuly completed one beautiful year, receieving _**'Platinum citation'**_ from Rotary international, here is a glimpse of it....."
   # video link
-  video_link : "https://www.youtube.com/watch?v=v2wdIz_BDqc"
+  video_link : "https://youtu.be/b1Y7ULMlxtg"
 
 
 ############################# event ################################
@@ -103,19 +103,19 @@ funfacts:
   funfact_item:
     # funfact item loop
     - name : "MEMBERS"
-      count : "60"
+      count : "59"
 
     # funfact item loop
     - name : "EVENTS"
-      count : "22"
+      count : "40"
 
     # funfact item loop
     - name : "ATTENDEES"
-      count : "470"
+      count : "500"
 
     # funfact item loop
     - name : "COLLABORATIONS"
-      count : "11"
+      count : "20"
 
 # funfact is for about page
 
