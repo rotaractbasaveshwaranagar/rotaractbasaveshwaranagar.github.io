@@ -24,10 +24,11 @@ type: "completed_events"
 ---
 
 ### About Event
-As we here more about the current situation around us, the more debilitating it is. 
+As we hear more about the current situation around us, the more debilitating it is. 
+
 _Is news the reality?_
 
-_What is the reaility?_
+_What is the reality?_
 
 _Do we need to know anything else?_
 
