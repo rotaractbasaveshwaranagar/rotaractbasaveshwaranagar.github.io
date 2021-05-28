@@ -33,3 +33,7 @@ _What is the reality?_
 _Do we need to know anything else?_
 
 Let's here it directly from Dr. Anusha R, who's actively working as a COVID warrior and mitigating the severity of the pandemic
+
+Sunday, May 30 · 11:30am – 1:00pm
+Google Meet joining info
+Video call link: https://meet.google.com/ysr-uifv-ckc

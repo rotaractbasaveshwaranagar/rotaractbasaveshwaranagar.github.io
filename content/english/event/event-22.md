@@ -20,10 +20,10 @@ fee: "0"
 apply_url : "#"
 
 # type
-type: "completed_events"
+type: "event"
 ---
 
 ### About Event
 RBB will be live streaming the _**The Reunion**_ of our all time favourite show which is happening on 27th May at 12:30 PM.
 
-Join us tomorrow: https://meet.google.com/hrs-dune-gzm
+Join us on 27th May: https://meet.google.com/hrs-dune-gzm
