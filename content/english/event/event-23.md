@@ -20,7 +20,7 @@ fee: "0"
 apply_url : "#"
 
 # type
-type: "completed_events"
+type: "event"
 ---
 
 ### About Event
