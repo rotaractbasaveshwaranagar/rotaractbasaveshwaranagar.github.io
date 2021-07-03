@@ -12,6 +12,7 @@ bg_image: "images/backgrounds/page-background.png"
 description : "This October 2nd join us as we eradicate a black spot and do our bit towards a cleaner Bengaluru. Volunteer with us to beautify the walls"
 # Event image
 image: "images/events/cleanathon.png"
+imagefull: "images/events/cleanthon_full.jpg"
 # location
 location: "Basaveshwaranagar, Bangalore"
 # apply url
@@ -22,4 +23,4 @@ type: "event"
 ---
 
 ### About Event
-
+A black spot (garbage dump) was identified and got it cleared by BBMP. Our members gathered to beautify the spot by painting the walls.

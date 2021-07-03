@@ -9,7 +9,11 @@
       </div>
       <!-- event image -->
       <div class="col-9 mb-2">
+        {{ if .Params.Imagefull }}
+        <img class="card-img-top rounded-0" src="{{ .Params.Imagefull | relURL }}" alt="{{ .Title }}">
+        {{ else if .Params.Image }}
         <img class="card-img-top rounded-0" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
+        {{ end }}
       </div>
     </div>
     <!-- event info -->
