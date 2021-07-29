@@ -40,7 +40,7 @@ A series of Competitions to show your support to the mammal which is the epitome
   
 **Last date to submit: 10th August 2021**
 
-We are goig to pledge not to buy or sell anything made from Ivory and spread awareness on coexisting with the Humble Giants of Nature. 🐘
+We are going to pledge not to buy or sell anything made from Ivory and spread awareness on coexisting with the Humble Giants of Nature. 🐘
 
 Mark your calendar for the 14th of August 2021 for an exciting Webinar and the grand finale
 
