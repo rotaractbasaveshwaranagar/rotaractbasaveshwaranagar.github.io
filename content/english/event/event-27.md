@@ -20,15 +20,12 @@ fee: "0"
 apply_url : "#"
 
 # type
-type: "completed_events"
+type: "event"
 ---
 
 ### About Event
 
-**JEEVANDAN...Chaitanya**, is an initiative taken up by Rotaract Bangalore Basaveshwaranagar to educate everyone about _organ donation_. 
+**JEEVANDAN...Chaitanya**, is an initiative taken up by Rotaract Bangalore Basaveshwaranagar to educate everyone about _organ donation_.
 Be a part of RBB’s Organ Donation Awareness program and support this initiative by taking up the survey using the link mentioned below
 > https://docs.google.com/forms/d/e/1FAIpQLScdkbyRpdmCjHGmayr7TVtAwYTnSbsJkvi2sZk0HSqS1PgaoA/viewform
->
-More details will be shared soon!!!
 
-Thank you.
