@@ -44,12 +44,12 @@ We are going to pledge not to buy or sell anything made from Ivory and spread aw
 
 Mark your calendar for the 14th of August 2021 for an exciting Webinar and the grand finale
 
-Note:
+**Note:**
 All Winner and Participants will receive E-certificates
 
-DM for more details.
-For more information contact
-Rtr.Thejeswini A D
-ISD | 21-22
-Rotaract Club of Basaveshwaranagar
+
+For more information contact \
+Rtr.Thejeswini A D \
+ISD | 21-22 \
+Rotaract Club of Basaveshwaranagar \
 8861772033
