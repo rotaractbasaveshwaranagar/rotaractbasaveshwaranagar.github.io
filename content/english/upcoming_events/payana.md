@@ -12,6 +12,7 @@ bg_image: "images/backgrounds/page-background.png"
 description : "Payana, 3rd Installation Ceremony"
 # Event image
 image: "images/events/payana-installation.png"
+imagefull: "images/events/payana-invite.png"
 # location
 location: "North Eye Hospital, Rajajinagar"
 
