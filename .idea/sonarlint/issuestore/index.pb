@@ -3,8 +3,6 @@
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 Q
 !content/english/event/event-10.md,c/c/cc37c597a1d611322c559d96cea0a8f9c0e1cdff
-G
-layouts/about/list.html,3/9/39eb3746592f82adcc77b991ee00be75b57d37f8
 K
 layouts/_default/event.html,3/a/3a1a864c7742df9b222621477c0c4f374b7db007
 L
