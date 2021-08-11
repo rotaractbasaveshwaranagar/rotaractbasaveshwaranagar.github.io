@@ -3,7 +3,7 @@ title: "GAJAದ್ವನಿ"
 # Schedule page publish date
 publishDate: "2021-07-28T08:00:00Z"
 # event date
-date: "2021-08-12T16:00:17+05:30"
+date: "2021-08-14T19:00:17+05:30"
 # post save as draft
 draft: false
 # page title background image
@@ -12,6 +12,7 @@ bg_image: "images/backgrounds/page-background.png"
 description : "World Elephant Day celebrations. RBB's Voice for Elephants!"
 # Event image
 image: "images/events/world-elephant-day.png"
+imagefull: "images/events/elephant-day-webinar.png"
 # location
 location: "Online"
 
