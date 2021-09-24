@@ -38,7 +38,7 @@ A series of Competitions to show your support to the mammal which is the epitome
 - Photography Contest
 - Essay Writing Competition
 - Sketching Competition
-  
+
 **Last date to submit: 10th August 2021**
 
 We are going to pledge not to buy or sell anything made from Ivory and spread awareness on coexisting with the Humble Giants of Nature. 🐘

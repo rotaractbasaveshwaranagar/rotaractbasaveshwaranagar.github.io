@@ -25,4 +25,4 @@ type: "completed_events"
 
 ### About Event
 
-As we are nearing to the beginning of the new RIY 2021-22, we take the oppurtunity to create awareness about our club and are open to take new members to the club. Please reach out us over mail from the 'Join Us' section above, or you can contact any of the numbers mentioned in the 'About Us' section.
+As we are nearing to the beginning of the new RIY 2021-22, we take the opportunity to create awareness about our club and are open to take new members to the club. Please reach out us over mail from the 'Join Us' section above, or you can contact any of the numbers mentioned in the 'About Us' section.

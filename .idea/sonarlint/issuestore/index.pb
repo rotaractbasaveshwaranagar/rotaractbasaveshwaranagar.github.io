@@ -9,8 +9,6 @@ O
 content/english/event/_index.md,1/3/13f1757e304383a713d8fa62e623e61b2812d807
 P
  content/english/event/event-1.md,c/b/cb367b26a0e93b25893fc1e3189cf326f049818e
-I
-layouts/event/single.html,b/0/b0330269fbd24e856c1f9b5971f81ae479014185
 J
 layouts/author/single.html,b/b/bb6a201077cbe9acbb1afe9efcea5bf229670886
 P
