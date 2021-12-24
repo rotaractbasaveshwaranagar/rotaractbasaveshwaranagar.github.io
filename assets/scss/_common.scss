@@ -410,3 +410,15 @@ textarea.form-control{
   width: 85px;
   object-fit: cover;
 }
+
+@media screen and (max-width: 475px) {
+    a.navbar-width-small{
+        width: 80% !important;
+    }
+}
+
+@media screen and (max-width: 391px) {
+    a.navbar-width-small{
+        width: 70% !important;
+    }
+}

@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<!-- boards -->
+<section class="section">
+    <div class="container">
+        <!-- board list -->
+        <div class="row filtr-container">
+            <!-- board -->
+            {{ $galleryCollection := .Site.Data.gallery }}
+            {{ range $galleryCollection }}
+                <div class="col-sm-4 card border-0 rounded-0 hover-shadow">
+                    <div class="card-img position-relative">
+                        <img class="card-img-top rounded-0" src="{{ .image | relURL }}" alt="{{ .title }}">
+                    </div>
+                    <div class="card-body">
+                        <!-- location -->
+                        <h4 class="card-title">{{ .title }}</h4>
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

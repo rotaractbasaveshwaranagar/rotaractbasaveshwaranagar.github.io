@@ -59,6 +59,11 @@ name = "Join Us"
 URL = "mailto:rotaractcb2@gmail.com"
 weight = 3
 
+[[menu.main]]
+name = "Gallery"
+URL = "gallery"
+weight = 3
+
 
 # footer menu
 

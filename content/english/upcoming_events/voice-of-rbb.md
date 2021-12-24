@@ -3,7 +3,7 @@ title: "Voice of RBB"
 # Schedule page publish date
 publishDate: "2021-09-11T00:00:00Z"
 # event date
-date: "2021-09-12T20:00:17+05:30"
+date: "2021-12-12T20:00:17+05:30"
 # post save as draft
 draft: false
 # page title background image

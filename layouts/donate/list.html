@@ -18,7 +18,7 @@
     <!-- board list -->
     <div class="row filtr-container">
         {{ range first 12 (where .Site.RegularPages "Type" "board") }}
-        {{ if and (ne .Params.Course "President") (ne .Params.Course "Secretary") (ne .Params.Course "Treasurer")}}{{else}}
+        {{ if (eq .Params.Course "Secretary 2021-22")}}
         <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
     
             <div class="card border-0 rounded-0 hover-shadow mb-5">
