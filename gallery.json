@@ -1,0 +1,14 @@
+{
+  "gallery" : [
+    {
+      "image": "images/events/wanderlust.png",
+      "description": "Wanderlust",
+      "title": "Wanderlust"
+    },
+    {
+      "image": "images/events/dov.png",
+      "description": "DOV",
+      "title": "DOV"
+    }
+  ]
+}
