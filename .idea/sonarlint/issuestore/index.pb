@@ -54,12 +54,8 @@ Q
 !content/english/event/event-30.md,c/d/cd0ff8124d1c666d15a9002906bdd54aa74f1e44
 Q
 !content/english/event/event-31.md,3/3/332270e384bef029a9cce60bfe21373ff0c7590b
-g
-7content/english/upcoming_events/seed-ball-initiative.md,f/7/f7846071d584cc510196d776f62b83fd013417c9
 Y
 )content/english/upcoming_events/_index.md,b/2/b23c68958937cd7dded1b0701020cf34c4710bec
-]
--content/english/upcoming_events/wanderlust.md,3/c/3c830b043db57bca493116002e086b2d52951535
 H
 layouts/test/sample.html,1/b/1b4233d5bcdfccbca722cf301ef10792544ba093
 P
